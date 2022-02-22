@@ -2,9 +2,17 @@
 
 ## Your Task
 
-Create a simple calendar application that allows a user to save events for each hour of the day by modifying starter code. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
+this week we had to make a simple calendar application that allows a user to save events for each hour of the day by modifying starter code. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
 
-You'll need to use the [Moment.js](https://momentjs.com/) library to work with date and time. Be sure to read the documentation carefully and concentrate on using Moment.js in the browser.
+
+```
+Resources 
+https://html-css-js.com/js/
+https://developer.mozilla.org/en-US/
+https://www.w3schools.com/js/js_intro.asp
+https://www.youtube.com/
+https://momentjs.com/
+```
 
 ## User Story
 
@@ -32,9 +40,6 @@ WHEN I refresh the page
 THEN the saved events persist
 ```
 
-The following animation demonstrates the application functionality:
-
-![A user clicks on slots on the color-coded calendar and edits the events.](./Assets/05-third-party-apis-homework-demo.gif)
 
 ```
  https://thekid303.github.io/05-Homework-/# 05-Homework-
