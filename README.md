@@ -37,5 +37,6 @@ The following animation demonstrates the application functionality:
 ![A user clicks on slots on the color-coded calendar and edits the events.](./Assets/05-third-party-apis-homework-demo.gif)
 
 ```
-
-# 05-Homework-
+ https://thekid303.github.io/05-Homework-/# 05-Homework-
+ ```
+ 
